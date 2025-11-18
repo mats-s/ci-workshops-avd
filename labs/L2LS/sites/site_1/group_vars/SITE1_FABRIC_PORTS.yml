@@ -42,4 +42,4 @@ servers:
         switches: [ s1-leaf3, s1-leaf4 ]                # Switch to connect server (required)
         profile: PP-VLAN20                              # Port profile to apply (required)
         port_channel:
-      mode: active     
+          mode: active
